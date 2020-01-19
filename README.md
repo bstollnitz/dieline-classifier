@@ -1,7 +1,7 @@
 # Package dieline classification
 
 *Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
-*Topics:* Fully connected network, CNN, RNN, automated hyperparameter tuning, classification. <br>
+*Topics:* deep learning, CNN, automated hyperparameter tuning, classification. <br>
 
 ## Description
 
