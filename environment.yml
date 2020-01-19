@@ -95,5 +95,3 @@ dependencies:
   - pip:
     - numexpr==2.7.0
     - tables==3.6.1
-prefix: /home/stollnitz/miniconda3/envs/dieline-classifier
-
